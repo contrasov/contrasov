@@ -1,1 +1,1 @@
-- 👋 Oi, sou o @contrasov
+- 👋 Oi, sou o @contrasov o pior programador de Cuba
