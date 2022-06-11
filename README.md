@@ -1,1 +1,1 @@
-- 👋 Oi, sou o @contrasov o pior programador de Cuba
+## Oi sou o Álvaro, um novato na main! 🤙
