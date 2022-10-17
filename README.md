@@ -1,4 +1,7 @@
-## Oi sou o Álvaro, um novato na main! 🤙
+## Hi i'm Álvaro, a Software Engineer Student 🤙
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/contrasov)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/contrasov)](https://www.linkedin.com/in/%C3%A1lvaro-santos-669354203/)
 
 <div align="center">
   <a href="https://github.com/contrasov">
