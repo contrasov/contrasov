@@ -9,3 +9,5 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contrasov&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </a>
 </div>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=contrasov&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=contrasov&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=contrasov&theme=nord_dark) |
+| :-: | :-: | :-: |
