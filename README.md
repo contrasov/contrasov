@@ -9,3 +9,4 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contrasov&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </a>
 </div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=contrasov&theme=nord_dark)
