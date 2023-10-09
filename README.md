@@ -17,9 +17,6 @@ voar nesta área e montar meu setup incrivel.
 
 👯‍♀️ Procuro evoluir sempre minha mente.
 
-⚡️ Fatos... -> minha primeira .iso por torrent foi 
-the sims 2, quando eu tinha 8 anos.
-
 ## **GitHub Estatísticas**
 
 [![Contrasov's GitHub stats](https://github-readme-stats.vercel.app/api?username=contrasov)](https://github.com/contrasov/github-readme-stats)
