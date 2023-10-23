@@ -4,9 +4,7 @@
 
 
 Aoba, me chamo Álvaro e desde de pequeno quis saber como funciona um computador, sempre perguntando para
-as pessoas que me fizeram amar a área de TI, ainda tenho traumas de uma dessas pessoas não querer instalar 
-GTA VICE CITY no meu primeiro computador... 
-Mas hoje em dia, cursando Eng. de Software na UFC, vi que gosto de programação, e hoje estou aqui, querendo 
+as pessoas que me fizeram amar a área de TI,hoje em dia, cursando Eng. de Software na UFC, vi que gosto de programação, e hoje estou aqui, querendo 
 voar nesta área e montar meu setup incrivel.
 
 
