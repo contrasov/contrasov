@@ -3,17 +3,15 @@
 <img align="right" width="200" src="https://media.tenor.com/NTcLs_Su1c8AAAAd/arthur-morgan-rdr2.gif" />
 
 
-Aoba, me chamo Álvaro e desde de pequeno quis saber como funciona um computador, sempre perguntando para
-as pessoas que me fizeram amar a área de TI,hoje em dia, cursando Eng. de Software na UFC, vi que gosto de programação, e hoje estou aqui, querendo 
-voar nesta área e montar meu setup incrivel.
+Aoba, my name is Álvaro, and since I was little, I've always wanted to understand how a computer works. I've been asking people who made me fall in love with the IT field. Nowadays, studying Software Engineering at UFC, I've discovered my passion for programming. Today, I'm here, eager to dive into this area and set up my amazing workstation.
 
 
-## Outras coisinhas...
-👩‍💻 Não trabalho atualmente...
+## Other little things...
+👩‍💻 I'm not currently employed...
 
-🧠 Estou aprendendo desenvolvimento web.
+🧠 I'm learning web development.
 
-👯‍♀️ Procuro evoluir sempre minha mente.
+👯‍♀️ I aim to continuously expand my mind.
 
 ## **GitHub Estatísticas**
 
