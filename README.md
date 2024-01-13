@@ -1,5 +1,5 @@
 
-## 🚀 Sobre mim
+## 🚀 About me
 <img align="right" width="200" src="https://media.tenor.com/NTcLs_Su1c8AAAAd/arthur-morgan-rdr2.gif" />
 
 
