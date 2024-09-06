@@ -13,4 +13,4 @@ Oi, me chamo Álvaro e sou estudante de engenharia de software na universidade f
 ![Zorin](<https://img.shields.io/badge/Zorin-15A6F0.svg?style=for-the-badge&logo=Zorin&logoColor=white>)
 ![Linux](<https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black>)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contrasov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contrasov)](https://github.com/anuraghazra/github-readme-stats)
