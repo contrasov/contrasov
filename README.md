@@ -1,18 +1,16 @@
+## Opa
+Oi, me chamo Álvaro e sou estudante de engenharia de software na universidade federal do ceará (UFC) Brasil, atualmente trabalho com UI/UX e desenvolvo alguns projetos com Front-End.
 
-## 🚀 About me
-<img align="right" width="200" src="https://media.tenor.com/NTcLs_Su1c8AAAAd/arthur-morgan-rdr2.gif" />
-i like rust and web :) 
+# Conhecimento
+![Vue](<https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white>)
+![html](<https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white>)
+![Github](<https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white>)
+![JS](<https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black>)
+![Figma](<https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white>)
+![Rust](<https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white>)
 
-## Other little things...
-👩‍💻 I'm not currently employed....
+### Usuário de: 
+![Zorin](<https://img.shields.io/badge/Zorin-15A6F0.svg?style=for-the-badge&logo=Zorin&logoColor=white>)
+![Linux](<https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black>)
 
-## **GitHub Estatísticas**
-
-[![Linguas](https://github-readme-stats.vercel.app/api/top-langs/?username=contrasov&layout=compact)](https://github.com/contrasov/github-readme-stats)
-
-
-
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-santos-669354203/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contrasov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
