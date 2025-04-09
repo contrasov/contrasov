@@ -7,10 +7,8 @@ Oi, me chamo Álvaro e sou estudante de engenharia de software na universidade f
 ![Github](<https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white>)
 ![JS](<https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black>)
 ![Figma](<https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white>)
-![Rust](<https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white>)
 
 ### Usuário de: 
 ![Zorin](<https://img.shields.io/badge/Zorin-15A6F0.svg?style=for-the-badge&logo=Zorin&logoColor=white>)
 ![Linux](<https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black>)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contrasov)](https://github.com/anuraghazra/github-readme-stats)
