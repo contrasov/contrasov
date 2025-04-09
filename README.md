@@ -9,6 +9,5 @@ Oi, me chamo Álvaro e sou estudante de engenharia de software na universidade f
 ![Figma](<https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white>)
 
 ### Usuário de: 
-![Zorin](<https://img.shields.io/badge/Zorin-15A6F0.svg?style=for-the-badge&logo=Zorin&logoColor=white>)
 ![Linux](<https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black>)
 
